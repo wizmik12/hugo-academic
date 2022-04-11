@@ -1,27 +1,22 @@
 ---
-title: "Deep Gaussian processes for multiple instance learning: Application to CT intracranial hemorrhage detection"
+title: "A new optical density granulometry-based descriptor for the classification of prostate histological images using shallow and deep Gaussian processes"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors:
-- admin
-- Arne schmidt
-- Yunan Wu
-- Rafael Molina
-- Aggelos K. Katsaggelos
+authors:["Ángel E. Esteban", admin, "Adrián Colomer", "María A. Sales", "Rafael Molina", "Valery Naranjo"]
 
 # Author notes (optional)
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 # Date first published.
 
-date: "2022-06"
+date: "2019-07"
 doi: "https://doi.org/10.1016/j.cmpb.2022.106783"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
