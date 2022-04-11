@@ -27,16 +27,15 @@ item:
   date_start: "2019-09-27"
   description: "Gaussian Processes and Deep Gaussian Processes for Crowdsourcing in digital pathology"
   organization: Northwestern University
-  organization_url: 
-  title: Visit to IPVL
+  organization_url: https://ivpl.northwestern.edu/
+  title: Visit to IVPL
   url: ""
 - date_end: "2021-12-17"
   date_start: "2021-11-14"
   description: Crowdsourcing segmentation in digital pathology
   organization: Northwestern University
-  logo: nu
-  organization_url: 
-  title: Visit to IPVL
+  organization_url: https://ivpl.northwestern.edu/
+  title: Visit to IVPL
   url: 
 
 design:
