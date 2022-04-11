@@ -24,19 +24,19 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
+#image:
 # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/wizmik12
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/wizmik12
 url_code: ""
 url_pdf: ""
 url_video: ""
-#url_slides: "/data/2019/northwestern/slides/Introduction_to_GPs.pdf"
+url_slides: "/assets/2019/northwestern/slides/Introduction_to_GPs.pdf"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
