@@ -30,7 +30,7 @@ item:
   organization_url: 
   title: Visit to IPVL
   url: ""
-  date_end: "2021-12-17"
+-  date_end: "2021-12-17"
   date_start: "2021-11-14"
   description: Crowdsourcing segmentation in digital pathology
   organization: Northwestern University
