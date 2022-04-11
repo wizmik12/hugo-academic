@@ -36,7 +36,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_video: ""
-url_slides: "/file/slides/intro_gps.pdf"
+url_slides: "file/slides/intro_gps.pdf"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
