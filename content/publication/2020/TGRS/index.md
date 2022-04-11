@@ -18,7 +18,7 @@ date: "2020-09"
 doi: "https://doi.org/10.1109/TGRS.2020.3022995"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -52,7 +52,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_custom: [{name = "Paper", url = "https://ieeexplore.ieee.org/abstract/document/9205618"}]
 # custom_url: 'https://www.sciencedirect.com/science/article/pii/S0169260722001699'
 
 # Featured image
@@ -77,13 +76,3 @@ url_custom: [{name = "Paper", url = "https://ieeexplore.ieee.org/abstract/docume
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

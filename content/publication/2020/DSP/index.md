@@ -52,7 +52,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_custom: [{name = "Paper", url = "https://www.sciencedirect.com/science/article/abs/pii/S1051200420300725"}]
 # custom_url: 'https://www.sciencedirect.com/science/article/pii/S0169260722001699'
 
 # Featured image
@@ -77,13 +76,3 @@ url_custom: [{name = "Paper", url = "https://www.sciencedirect.com/science/artic
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
