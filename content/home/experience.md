@@ -34,7 +34,7 @@ experience:
     - title: Visiting Researcher
     company: Northwestern University
     company_url: ''
-    company_logo: nu
+    company_logo: ugr
     location: Evanston
     date_start: '2021-11-14'
     date_end: '2021-12-17'
@@ -43,7 +43,7 @@ experience:
   - title: Visiting Researcher
     company: Northwestern University
     company_url: ''
-    company_logo: nu
+    company_logo: ugr
     location: Evanston
     date_start: '2019-09-27'
     date_end: '2019-11-28'
