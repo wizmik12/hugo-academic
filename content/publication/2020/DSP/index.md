@@ -52,7 +52,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_custom = [{name = "Paper", url = "https://www.sciencedirect.com/science/article/abs/pii/S1051200420300725"}]
+url_custom: [{name = "Paper", url = "https://www.sciencedirect.com/science/article/abs/pii/S1051200420300725"}]
 # custom_url: 'https://www.sciencedirect.com/science/article/pii/S0169260722001699'
 
 # Featured image
