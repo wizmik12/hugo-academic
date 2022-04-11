@@ -32,24 +32,6 @@ experience:
     date_end: ''
     description: Classification of histopathological images of skin from crowdsourced data.
     
- - title: Visiting Researcher
-    company: Northwestern University
-    company_url: ''
-    company_logo: ugr
-    location: Evanston
-    date_start: '2021-11-14'
-    date_end: '2021-12-17'
-    description: Research in semantic segmentation for crowdsourced data in digital pathology.
-     
-  - title: Visiting Researcher
-    company: Northwestern University
-    company_url: ''
-    company_logo: ugr
-    location: Evanston
-    date_start: '2019-09-27'
-    date_end: '2019-11-28'
-    description: Research in gaussian processes and deep gaussian processes for crowdsourced problem in digital pathology.
-    
   - title: Predoctoral Researcher
     company: University of Granada
     company_url: ''
