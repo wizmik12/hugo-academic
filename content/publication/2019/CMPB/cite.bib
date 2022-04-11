@@ -1,13 +1,20 @@
-@article{LOPEZPEREZ2022106783,
-title = {Deep Gaussian processes for multiple instance learning: Application to CT intracranial hemorrhage detection},
+@article{ESTEBAN2019303,
+title = {A new optical density granulometry-based descriptor for the classification of prostate histological images using shallow and deep Gaussian processes},
 journal = {Computer Methods and Programs in Biomedicine},
-volume = {219},
-pages = {106783},
-year = {2022},
+volume = {178},
+pages = {303-317},
+year = {2019},
 issn = {0169-2607},
-doi = {https://doi.org/10.1016/j.cmpb.2022.106783},
-url = {https://www.sciencedirect.com/science/article/pii/S0169260722001699},
-author = {Miguel López-Pérez and Arne Schmidt and Yunan Wu and Rafael Molina and Aggelos K. Katsaggelos},
-keywords = {Multiple instance learning, Deep Gaussian processes, Intracranial hemorrhage detection, Weakly supervised learning},
-abstract = {Background and objective: Intracranial hemorrhage (ICH) is a life-threatening emergency that can lead to brain damage or death, with high rates of mortality and morbidity. The fast and accurate detection of ICH is important for the patient to get an early and efficient treatment. To improve this diagnostic process, the application of Deep Learning (DL) models on head CT scans is an active area of research. Although promising results have been obtained, many of the proposed models require slice-level annotations by radiologists, which are costly and time-consuming. Methods: We formulate the ICH detection as a problem of Multiple Instance Learning (MIL) that allows training with only scan-level annotations. We develop a new probabilistic method based on Deep Gaussian Processes (DGP) that is able to train with this MIL setting and accurately predict ICH at both slice- and scan-level. The proposed DGPMIL model is able to capture complex feature relations by using multiple Gaussian Process (GP) layers, as we show experimentally. Results: To highlight the advantages of DGPMIL in a general MIL setting, we first conduct several controlled experiments on the MNIST dataset. We show that multiple GP layers outperform one-layer GP models, especially for complex feature distributions. For ICH detection experiments, we use two public brain CT datasets (RSNA and CQ500). We first train a Convolutional Neural Network (CNN) with an attention mechanism to extract the image features, which are fed into our DGPMIL model to perform the final predictions. The results show that DGPMIL model outperforms VGPMIL as well as the attention-based CNN for MIL and other state-of-the-art methods for this problem. The best performing DGPMIL model reaches an AUC-ROC of 0.957 (resp. 0.909) and an AUC-PR of 0.961 (resp. 0.889) on the RSNA (resp. CQ500) dataset. Conclusion: The competitive performance at slice- and scan-level shows that DGPMIL model provides an accurate diagnosis on slices without the need for slice-level annotations by radiologists during training. As MIL is a common problem setting, our model can be applied to a broader range of other tasks, especially in medical image classification, where it can help the diagnostic process.}
+doi = {https://doi.org/10.1016/j.cmpb.2019.07.003},
+url = {https://www.sciencedirect.com/science/article/pii/S0169260719303906},
+author = {Ángel E. Esteban and Miguel López-Pérez and Adrián Colomer and María A. Sales and Rafael Molina and Valery Naranjo},
+keywords = {Prostate cancer, Histopathological images, Gaussian processes, Variational inference, Granulometries, Deep Gaussian processes},
+abstract = {Background and objective
+Prostate cancer is one of the most common male tumors. The increasing use of whole slide digital scanners has led to an enormous interest in the application of machine learning techniques to histopathological image classification. Here we introduce a novel family of morphological descriptors which, extracted in the appropriate image space and combined with shallow and deep Gaussian process based classifiers, improves early prostate cancer diagnosis.
+Method
+We decompose the acquired RGB image in its RGB and optical density hematoxylin and eosin components. Then, we define two novel granulometry-based descriptors which work in both, RGB and optical density, spaces but perform better when used on the latter. In this space they clearly encapsulate knowledge used by pathologists to identify cancer lesions. The obtained features become the inputs to shallow and deep Gaussian process classifiers which achieve an accurate prediction of cancer.
+Results
+We have used a real and unique dataset. The dataset is composed of 60 Whole Slide Images. For a five fold cross validation, shallow and deep Gaussian Processes obtain area under ROC curve values higher than 0.98. They outperform current state of the art patch based shallow classifiers and are very competitive to the best performing deep learning method. Models were also compared on 17 Whole Slide test Images using the FROC curve. With the cost of one false positive, the best performing method, the one layer Gaussian process, identifies 83.87% (sensitivity) of all annotated cancer in the Whole Slide Image. This result corroborates the quality of the extracted features, no more than a layer is needed to achieve excellent generalization results.
+Conclusion
+Two new descriptors to extract morphological features from histological images have been proposed. They collect very relevant information for cancer detection. From these descriptors, shallow and deep Gaussian Processes are capable of extracting the complex structure of prostate histological images. The new space/descriptor/classifier paradigm outperforms state-of-art shallow classifiers. Furthermore, despite being much simpler, it is competitive to state-of-art CNN architectures both on the proposed SICAPv1 database and on an external database.}
 }
