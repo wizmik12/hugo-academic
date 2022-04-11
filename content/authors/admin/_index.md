@@ -10,23 +10,22 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Graada
+- name: University of Granada
   url: https://www.ugr.es/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Gaussian Processes, ML in digital pathology and weakly supervised methods.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence in healthcare
 - Gaussian Processes
 - Crowdsourcing
-- Uncertainty estimation
 
 # Education to show in About widget
 education:
   courses:
-  - course: Msc in Data Science and Intelligent systems
+  - course: Msc in Artificial Intelligence
     institution: University of Granada
     year: 2018
   - course: BSc in Mathematics
@@ -46,20 +45,23 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=MK-LiQoAAAAJ&hl=es
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/wizmik12
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/miguel-lopez-perezz
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2965-0624
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+#icon: cv
+#icon_pack: ai
+#link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,8 +70,4 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a PhD student (2018 to present) working in the [Visual Information Processing Group](https://decsai.ugr.es/vip/index.html) of  University of Granada (UGR). My research line is "Video & Image Processing and Classification. Computer Vision". Specifically, my thesis topic is about probabilistic modelling for image and signal classification. Mainly, I study GP-based models to an efficient classification and comprehension of medical images. Now, my main focus is on crowdsourcing for digital pathology. My thesis advisor is [Rafael Molina Soriano](https://decsai.ugr.es/~rms/).
