@@ -42,7 +42,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/wizmik12
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=MK-LiQoAAAAJ&hl=es
@@ -70,4 +70,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student (2018 to present) working in the [Visual Information Processing Group](https://decsai.ugr.es/vip/index.html) of  University of Granada (UGR). My research line is "Video & Image Processing and Classification. Computer Vision". Specifically, my thesis topic is about probabilistic modelling for image and signal classification. Mainly, I study GP-based models to an efficient classification and comprehension of medical images. Now, my main focus is on crowdsourcing for digital pathology. My thesis advisor is [Rafael Molina Soriano](https://decsai.ugr.es/~rms/).
+I am a PhD student (2018 to present) working in the [Visual Information Processing Group](https://decsai.ugr.es/vip/index.html) of  University of Granada (UGR). My research line is "Video & Image Processing and Classification. Computer Vision". Specifically, my thesis topic is about probabilistic modelling for image and signal classification. Mainly, I study Gaussian Processes for classification. My field of application is medical imaging. Now, my main focus is on crowdsourcing for digital pathology. My thesis advisor is [Rafael Molina Soriano](https://decsai.ugr.es/~rms/).
