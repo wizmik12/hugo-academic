@@ -36,7 +36,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_video: ""
-url_slides: "/data/2019/northwestern/slides/Introduction_to_GPs.pdf"
+#url_slides: "/data/2019/northwestern/slides/Introduction_to_GPs.pdf"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
