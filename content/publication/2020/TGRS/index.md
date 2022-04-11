@@ -15,7 +15,7 @@ authors: [admin, "Luz García", "Carmen Benítez",
 # Date first published.
 
 date: "2020-09"
-doi: "https://doi.org/10.1016/j.cmpb.2022.106783"
+doi: "https://doi.org/10.1109/TGRS.2020.3022995"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
@@ -30,7 +30,7 @@ publication_types: ["2"]
 publication: "*IEEE Transactions on Geoscience and Remote Sensing*. September 2020. "
 publication_short: "*TGRS*"
 
-abstract: "The automatic classification of volcano-seismic events is a key problem in volcanology. Due to its complexity, deep learning (DL) techniques have become the tool of  choice for this problem, outperforming classical classifiers. The main drawback of this approach, when applied to the classification of volcano-seismic events, is its tendency to overfit because of the small-size available databases. In this work, we propose and analyze the use of the Gaussian processes (GPs) and Deep GPs (DGPs), and their hierarchical extension, for volcano-seismic event classification. We empirically prove the adequacy of the proposed modeling with an insightful and exhaustive comparison with state-of-the-art DL-based methods on a seismic database recorded at Volcán de Fuego, Colima, Mexico. The hierarchical structure of DGPs and the reduced number of parameters to be automatically estimated become essential to achieve excellent performance even on small databases, capturing well the complex patterns of seismic signals for all classes and, in particular, for those that have been hardly observed.""
+abstract: "The automatic classification of volcano-seismic events is a key problem in volcanology. Due to its complexity, deep learning (DL) techniques have become the tool of  choice for this problem, outperforming classical classifiers. The main drawback of this approach, when applied to the classification of volcano-seismic events, is its tendency to overfit because of the small-size available databases. In this work, we propose and analyze the use of the Gaussian processes (GPs) and Deep GPs (DGPs), and their hierarchical extension, for volcano-seismic event classification. We empirically prove the adequacy of the proposed modeling with an insightful and exhaustive comparison with state-of-the-art DL-based methods on a seismic database recorded at Volcán de Fuego, Colima, Mexico. The hierarchical structure of DGPs and the reduced number of parameters to be automatically estimated become essential to achieve excellent performance even on small databases, capturing well the complex patterns of seismic signals for all classes and, in particular, for those that have been hardly observed."
 
 # Summary. An optional shortened abstract.
 
