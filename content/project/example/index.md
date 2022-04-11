@@ -6,8 +6,8 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://thefluxions.github.io/"
-links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/thefluxions"}]
+external_link: "https://thefluxions.github.io/"
+links: [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/thefluxions"}]
 
 image:
   caption: Photo by rawpixel on Unsplash
