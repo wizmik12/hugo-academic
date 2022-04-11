@@ -34,6 +34,7 @@ item:
   date_start: "2021-11-14"
   description: Crowdsourcing segmentation in digital pathology
   organization: Northwestern University
+  logo: nu
   organization_url: 
   title: Visit to IPVL
   url: 
