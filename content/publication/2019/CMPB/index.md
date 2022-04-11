@@ -4,7 +4,7 @@ title: "A new optical density granulometry-based descriptor for the classificati
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors:["Ángel E. Esteban", admin, "Adrián Colomer", "María A. Sales", "Rafael Molina", "Valery Naranjo"]
+authors: ["Ángel E. Esteban", admin, "Adrián Colomer", "María A. Sales", "Rafael Molina", "Valery Naranjo"]
 
 # Author notes (optional)
 author_notes:
@@ -13,7 +13,7 @@ author_notes:
 # Date first published.
 
 date: "2019-07"
-doi: "https://doi.org/10.1016/j.cmpb.2022.106783"
+doi: "https://doi.org/10.1016/j.cmpb.2019.07.003"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-01T00:00:00Z"
@@ -25,13 +25,14 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computer Methods and Programs in Biomedicine*, Volume 219, June 2022, 106783"
-publication_short: "*CMPB*"
+publication: "*Computer Methods and Programs in Biomedicine*. Volume 178, September 2019, Pages 303-317. "
+# publication_short: "*CMPB*"
 
-abstract: "Background and objective: Intracranial hemorrhage (ICH) is a life-threatening emergency that can lead to brain damage or death, with high rates of mortality and morbidity. The fast and accurate detection of ICH is important for the patient to get an early and efficient treatment. To improve this diagnostic process, the application of Deep Learning (DL) models on head CT scans is an active area of research. Although promising results have been obtained, many of the proposed models require slice-level annotations by radiologists, which are costly and time-consuming. Methods: We formulate the ICH detection as a problem of Multiple Instance Learning (MIL) that allows training with only scan-level annotations. We develop a new probabilistic method based on Deep Gaussian Processes (DGP) that is able to train with this MIL setting and accurately predict ICH at both slice- and scan-level. The proposed DGPMIL model is able to capture complex feature relations by using multiple Gaussian Process (GP) layers, as we show experimentally. Results: To highlight the advantages of DGPMIL in a general MIL setting, we first conduct several controlled experiments on the MNIST dataset. We show that multiple GP layers outperform one-layer GP models, especially for complex feature distributions. For ICH detection experiments, we use two public brain CT datasets (RSNA and CQ500). We first train a Convolutional Neural Network (CNN) with an attention mechanism to extract the image features, which are fed into our DGPMIL model to perform the final predictions. The results show that DGPMIL model outperforms VGPMIL as well as the attention-based CNN for MIL and other state-of-the-art methods for this problem. The best performing DGPMIL model reaches an AUC-ROC of 0.957 (resp. 0.909) and an AUC-PR of 0.961 (resp. 0.889) on the RSNA (resp. CQ500) dataset. Conclusion: The competitive performance at slice- and scan-level shows that DGPMIL model provides an accurate diagnosis on slices without the need for slice-level annotations by radiologists during training. As MIL is a common problem setting, our model can be applied to a broader range of other tasks, especially in medical image classification, where it can help the diagnostic process."
+abstract: "Background and objective: Prostate cancer is one of the most common male tumors. The increasing use of whole slide digital scanners has led to an enormous interest in the application of machine learning techniques to histopathological image classification. Here we introduce a novel family of morphological descriptors which, extracted in the appropriate image space and combined with shallow and deep Gaussian process based classifiers, improves early prostate cancer diagnosis. Method: We decompose the acquired RGB image in its RGB and optical density hematoxylin and eosin components. Then, we define two novel granulometry-based descriptors which work in both, RGB and optical density, spaces but perform better when used on the latter. In this space they clearly encapsulate knowledge used by pathologists to identify cancer lesions. The obtained features become the inputs to shallow and deep Gaussian process classifiers which achieve an accurate prediction of cancer. Results: We have used a real and unique dataset. The dataset is composed of 60 Whole Slide Images. For a five fold cross validation, shallow and deep Gaussian Processes obtain area under ROC curve values higher than 0.98. They outperform current state of the art patch based shallow classifiers and are very competitive to the best performing deep learning method. Models were also compared on 17 Whole Slide test Images using the FROC curve. With the cost of one false positive, the best performing method, the one layer Gaussian process, identifies 83.87% (sensitivity) of all annotated cancer in the Whole Slide Image. This result corroborates the quality of the extracted features, no more than a layer is needed to achieve excellent generalization results. Conclusion: Two new descriptors to extract morphological features from histological images have been proposed. They collect very relevant information for cancer detection. From these descriptors, shallow and deep Gaussian Processes are capable of extracting the complex structure of prostate histological images. The new space/descriptor/classifier paradigm outperforms state-of-art shallow classifiers. Furthermore, despite being much simpler, it is competitive to state-of-art CNN architectures both on the proposed SICAPv1 database and on an external database."
+abstract_short = "We present a novel and fast method for cancer detection. This method is based on the new optical density granulometry descriptor and the introducton of gaussian processes in this task. This method is tested in our SICAPv1 database (which is available online) with competitive results to state-of-art deep learning methods and outperforming current state of the art shallow methods."
 
 # Summary. An optional shortened abstract.
-summary: We propose Deep Gaussian Processses for Multiple Instance Learning.
+#summary: We propose Deep Gaussian Processses for Multiple Instance Learning.
 
 tags: []
 
@@ -44,14 +45,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/wizmik12/DGPMIL'
-url_dataset: ''
+url_code: ''
+url_dataset: "https://cvblab.synology.me/PublicDatabases/SICAPv1.zip"
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_custom: [{name = "Paper", url = "https://www.sciencedirect.com/science/article/pii/S0169260722001699"}]
 
 
 # Featured image
@@ -76,13 +76,3 @@ url_custom: [{name = "Paper", url = "https://www.sciencedirect.com/science/artic
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
