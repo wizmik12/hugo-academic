@@ -2,16 +2,13 @@
 title: The Fluxions
 summary: The podcast that Newton would listen to below the tree.
 tags:
-- Podcast - Science
+- Podcast
+- Communication
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://thefluxions.github.io/"
 links: [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/thefluxions"}]
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 
 links:
 - icon: twitter
