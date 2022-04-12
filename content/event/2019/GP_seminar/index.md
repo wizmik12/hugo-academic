@@ -54,7 +54,7 @@ url_slides: "file/slides/intro_gps.pdf"
 #- example
 ---
 
-<img src="/img/2019/Northwestern/WhatsApp Image 2019-11-22 at 22.50.46.jpeg" alt="" width="300"/>
 <img src="/img/2019/Northwestern/WhatsApp Image 2019-11-22 at 22.50.45.jpeg" alt="" width="300"/>
+
 In my visit to the [IVPL](https://ivpl.northwestern.edu/) lab in Northwestern University I gave a talk on gaussian processes.
 
