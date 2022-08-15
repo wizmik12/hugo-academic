@@ -52,9 +52,6 @@ url_slides: ""
 #projects:
 #- example
 
-[header]
-image = "jasyp/Jasyp-header.PNG"
-caption = ""
 ---
 
 <img src="/img/2019/JASYP/jasyp3.jpg" alt="" width="300"/>
