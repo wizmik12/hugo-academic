@@ -31,7 +31,6 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: In *Intelligent Data Engineering and Automated Learning 2019*
 publication_short: In *IDEAL 2019*
-
 abstract: The increasing use of whole slide digital scanners has led to an enormous interest in the application of machine learning techniques to detect prostate cancer using eosin and hematoxylin stained histopathological images. In this work the above problem is approached as follows: the optical density of each whole slide image is calculated and its eosin and hematoxylin concentration components estimated. Then, hand-crafted features, which are expected to capture the expertise of pathologists, are extracted from patches of these two concentration components. Finally, patches are classified using a Deep Gaussian Process on the extracted features. The new approach outperforms current state of the art shallow as well as deep classifiers like InceptionV3, Xception and VGG19 with an AUC value higher than 0.98.
 
 # Summary. An optional shortened abstract.
