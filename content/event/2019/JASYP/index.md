@@ -54,10 +54,10 @@ url_slides: ""
 
 ---
 
-<img src="/img/2019/JASYP/jasyp3.jpg" alt="" width="300"/>
+<img src="/img/2019/JASYP/jasyp3.jpeg" alt="" width="300"/>
 
-<img src="/img/2019/JASYP/jasyp2.jpg" alt="" width="300"/>
+<img src="/img/2019/JASYP/jasyp2.jpeg" alt="" width="300"/>
 
-<img src="/img/2019/JASYP/jasyp1.jpg" alt="" width="300"/>
+<img src="/img/2019/JASYP/jasyp1.jpeg" alt="" width="300"/>
 
 
