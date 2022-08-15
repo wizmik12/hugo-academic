@@ -28,4 +28,4 @@ url_video: ""
 # slides: example
 ---
 
-The Fluxions is a podcast about mathematics, physics and computer science. It tries to communicate hard topic to a broader audience.
+The Fluxions is a podcast about mathematics, physics and computer science. It tries to communicate hard topics to a broader audience. We strongly believe in the use of comedy and jokes to communicate science. We also made some live events where we gather a lot of scientific researchers to perform interesting talks.
