@@ -26,7 +26,7 @@ item:
 - date_end: "2019-11-28"
   date_start: "2019-09-27"
   description: "We studied Gaussian Processes and Deep Gaussian Processes for Crowdsourcing in digital pathology. We applied them to TNBC histological images."
-  organization: Northwestern University
+  organization: NU
   organization_url: https://ivpl.northwestern.edu/
   title: Visit to IVPL
   url: ""
