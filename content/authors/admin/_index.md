@@ -73,4 +73,4 @@ email: ""
 highlight_name: true
 ---
 
-I am PhD researcher (2022 to present) working in the [Visual Information Processing Group](https://decsai.ugr.es/vip/index.html) of  University of Granada (UGR). My main research line are weakly supervised learning, Gaussian Processes and medical imaging. I finished my PhD in July of 2022. My thesis was about weakly supervised learning with Gaussian Processes applied to medical images. Now, my main focus is on crowdsourcing for digital pathology. The PI of my research group is [Rafael Molina Soriano](https://decsai.ugr.es/~rms/).
+I am PhD researcher (2022 to present) working in the [Visual Information Processing Group](https://decsai.ugr.es/vip/index.html) of  University of Granada (UGR). My main research lines are weakly supervised learning, Gaussian Processes and medical imaging. I finished my PhD in July of 2022. My thesis was about weakly supervised learning with Gaussian Processes applied to medical images. Now, my main focus is on crowdsourcing for digital pathology. The PI of my research group is [Rafael Molina Soriano](https://decsai.ugr.es/~rms/).
