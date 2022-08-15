@@ -1,22 +1,23 @@
 ---
-title: "EDA and NLP basics: Exploring the innards of the Spanish poetry"
+title: "Artificial intelligence: your face is similar to it"
 
-event: PyConEs 2020
-event_url: "https://2020.es.pycon.org/"
+event: JASYP '19
+event_url: "https://interferencias.tech/jasyp/"
 
-location: "Virtual, Spain"
+location: "Granada, Spain"
 
-summary: "Are you a lover of data visualization, Natural Language Processing (NLP) and poetry? Well, you are in luck. With this talk, we want to show the basic steps to follow to solve a natural language processing problem, which can be applied to any problem in this area with so much to explore. We will cover classic NLP tasks, such as sentiment analysis, similarity searches on the data itself and some vocabulary visualizations."
+summary: "In this talk I will talk about how the facial recognition works and what could be its impact in our lives."
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-10-02T14:00:00Z'
+date: '2019-04-27T14:00:00Z'
 date_end: '2019-11-23T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [admin, "Andrea Morales"]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -31,10 +32,10 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/wizmik12
-url_pdf = "https://github.com/andreamorgar/poesIA"
-url_slides = "https://github.com/andreamorgar/poesIA/blob/master/slides.pdf"
-url_video = "https://www.youtube.com/watch?v=0C96vAa9NHY&t"
-url_code = "https://github.com/andreamorgar/poesIA"
+url_code: ""
+url_pdf: ""
+url_video: ""
+url_slides: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -53,7 +54,10 @@ url_code = "https://github.com/andreamorgar/poesIA"
 
 ---
 
+<img src="/img/2019/JASYP/jasyp3.jpeg" alt="" width="300"/>
 
+<img src="/img/2019/JASYP/jasyp2.jpeg" alt="" width="300"/>
 
+<img src="/img/2019/JASYP/jasyp1.jpeg" alt="" width="300"/>
 
 
