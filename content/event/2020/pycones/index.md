@@ -31,10 +31,10 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/wizmik12
-url_pdf = "https://github.com/andreamorgar/poesIA"
-url_slides = "https://github.com/andreamorgar/poesIA/blob/master/slides.pdf"
-url_video = "https://www.youtube.com/watch?v=0C96vAa9NHY&t"
-url_code = "https://github.com/andreamorgar/poesIA"
+url_pdf: "https://github.com/andreamorgar/poesIA"
+url_slides: "https://github.com/andreamorgar/poesIA/blob/master/slides.pdf"
+url_video: "https://www.youtube.com/watch?v=0C96vAa9NHY&t"
+url_code: "https://github.com/andreamorgar/poesIA"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
