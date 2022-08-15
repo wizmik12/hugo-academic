@@ -1,16 +1,16 @@
 ---
-title: "Artificial intelligence: your face is similar to it"
+title: "Does the AI know how when it makes a wrong prediction?"
 
-event: JASYP '19
-event_url: "https://interferencias.tech/jasyp/"
+event: Aquí te pillo, aquí te cuento
+event_url: "https://scenio.es/aqui-te-pillo-aqui-te-cuento-i"
 
 location: "Granada, Spain"
 
-summary: "In this talk I will talk about how the facial recognition works and what could be its impact in our lives."
+summary: "This talk explain the risks of automated decisions made by AI systems. In a one step closer to reliable models, it introduces probabilistic machine learning. These models not only give accurate predictions for decision-making but also a degree of confidence."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2019-04-27T14:00:00Z'
+date: '2022-04-27T14:00:00Z'
 date_end: '2019-11-23T15:00:00Z'
 all_day: false
 
@@ -54,10 +54,5 @@ url_slides: ""
 
 ---
 
-<img src="/img/2019/JASYP/jasyp3.jpeg" alt="" width="300"/>
-
-<img src="/img/2019/JASYP/jasyp2.jpeg" alt="" width="300"/>
-
-<img src="/img/2019/JASYP/jasyp1.jpeg" alt="" width="300"/>
 
 
