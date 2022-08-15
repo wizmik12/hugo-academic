@@ -6,7 +6,7 @@ title: Miguel López-Pérez
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: University of Granada
+    year: 2022
   - course: Msc in Artificial Intelligence
     institution: University of Granada
     year: 2018
@@ -59,9 +62,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-#icon: cv
-#icon_pack: ai
-#link: uploads/resume.pdf
+icon: cv
+icon_pack: ai
+link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +73,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student (2018 to present) working in the [Visual Information Processing Group](https://decsai.ugr.es/vip/index.html) of  University of Granada (UGR). My research line is "Video & Image Processing and Classification. Computer Vision". Specifically, my thesis topic is about probabilistic modelling for image and signal classification. Mainly, I study Gaussian Processes for classification. My field of application is medical imaging. Now, my main focus is on crowdsourcing for digital pathology. My thesis advisor is [Rafael Molina Soriano](https://decsai.ugr.es/~rms/).
+I am PhD researcher (2022 to present) working in the [Visual Information Processing Group](https://decsai.ugr.es/vip/index.html) of  University of Granada (UGR). My main research line are weakly supervised learning, Gaussian Processes and medical imaging. I finished my PhD in July of 2022. My thesis was about weakly supervised learning with Gaussian Processes applied to medical images. Now, my main focus is on crowdsourcing for digital pathology. The PI of my research group is [Rafael Molina Soriano](https://decsai.ugr.es/~rms/).
