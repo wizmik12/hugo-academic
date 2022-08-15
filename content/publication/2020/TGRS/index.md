@@ -14,7 +14,7 @@ authors: [admin, "Luz García", "Carmen Benítez",
 #- "Equal contribution"
 # Date first published.
 
-date: "2020-09"
+date: "2021-05"
 doi: "https://doi.org/10.1109/TGRS.2020.3022995"
 
 # Schedule page publish date (NOT publication's date).
