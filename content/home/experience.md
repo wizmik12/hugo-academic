@@ -23,13 +23,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: PhD Researcher
+    company: University of Granada
+    company_url: ''
+    company_logo: ugr
+    location: Granada
+    date_start: '2022-07-12'
+    date_end: ''
+    description: Classification of histopathological images of skin from crowdsourced data.
+    
   - title: Predoctoral Researcher
     company: University of Granada
     company_url: ''
     company_logo: ugr
     location: Granada
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2022-07-11'
     description: Classification of histopathological images of skin from crowdsourced data.
     
   - title: Predoctoral Researcher
