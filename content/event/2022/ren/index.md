@@ -1,16 +1,16 @@
 ---
-title: "Hosting Aquí te pillo, aquí te cuento 2"
+title: "Researchers' European Night '22"
 
-event: Aquí te pillo, aquí te cuento 2
-event_url: "https://scenio.es/aqui-te-pillo-aqui-te-cuento-vol-2-evento-en-vivo"
+event: Researchers' European Night
+event_url: "https://lanochedelosinvestigadores.fundaciondescubre.es/investigador/miguel-lopez-perez/"
 
 location: "Granada, Spain"
 
-summary: "This event provides a space to 10 scientist to solve a 'fool' question with a scientific answer in 5 minutes. You will find science combined with fun. This was the second edition and I was the host!! A made a mini-monologue and also introduce every speaker."
+summary: "I performed several workshops about AI in the "Researchers' European Night" in Granada, Spain."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-11-23T14:00:00Z'
+date: '2022-09-30T14:00:00Z'
 date_end: '2019-11-23T15:00:00Z'
 all_day: false
 
@@ -54,5 +54,11 @@ url_slides: ""
 
 ---
 
+I collaborate with the European Project "Researchers' European Night" (HORIZON-MSCA-2022-CITIZENS-01 GA: 101061307) in Granada. 
 
+I carried out 4 workshops together with my colleagues:
 
+* The wisdom of the crowds: are many people smarter than a single expert?
+* Artificial intelligence for the automatic generation of poems in Spanish
+* How does an artificial intelligence system work?
+* How does artificial intelligence detect cancer?

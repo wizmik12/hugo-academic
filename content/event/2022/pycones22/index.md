@@ -1,16 +1,16 @@
 ---
-title: "Hosting Aquí te pillo, aquí te cuento 2"
+title: "PyConEs22: My first app with Pytorch"
 
-event: Aquí te pillo, aquí te cuento 2
-event_url: "https://scenio.es/aqui-te-pillo-aqui-te-cuento-vol-2-evento-en-vivo"
+event: PyConEs 22
+event_url: "https://charlas.2022.es.pycon.org/pycones2022/talk/BRKLNP/"
 
 location: "Granada, Spain"
 
-summary: "This event provides a space to 10 scientist to solve a 'fool' question with a scientific answer in 5 minutes. You will find science combined with fun. This was the second edition and I was the host!! A made a mini-monologue and also introduce every speaker."
+summary: "A hands-on tutorial for creating an app in streamlit using a Pytorch model. We also taught from the basics to intermediate level the theory behind deep neuronal networks using Pytorch."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-11-23T14:00:00Z'
+date: '2022-09-30T14:00:00Z'
 date_end: '2019-11-23T15:00:00Z'
 all_day: false
 
@@ -32,8 +32,8 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/wizmik12
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/wizmik12/first-app-pytorch"
+url_pdf: "https://github.com/wizmik12/first-app-pytorch/blob/main/slides/Introducci%C3%B3n%20a%20PyTorch.pdf"
 url_video: ""
 url_slides: ""
 
