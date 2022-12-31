@@ -1,7 +1,7 @@
 ---
 title: "Researchers' European Night '22"
 
-event: Researchers' European Night
+event: "Researchers' European Night"
 event_url: "https://lanochedelosinvestigadores.fundaciondescubre.es/investigador/miguel-lopez-perez/"
 
 location: "Granada, Spain"
@@ -17,7 +17,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [admin]
+authors: [admin, "Andrea Morales-Garzón"]
 tags: []
 
 # Is this a featured talk? (true/false)

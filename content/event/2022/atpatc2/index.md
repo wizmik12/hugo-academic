@@ -1,5 +1,5 @@
 ---
-title: "Hosting Aquí te pillo, aquí te cuento 2"
+title: "Aquí te pillo, aquí te cuento 2"
 
 event: Aquí te pillo, aquí te cuento 2
 event_url: "https://scenio.es/aqui-te-pillo-aqui-te-cuento-vol-2-evento-en-vivo"
@@ -53,6 +53,6 @@ url_slides: ""
 #- example
 
 ---
-
+This event provides a space to 10 scientist to solve a 'fool' question with a scientific answer in 5 minutes. You will find science combined with fun. This was the second edition and I was the host!! A made a mini-monologue and also introduce every speaker.
 
 

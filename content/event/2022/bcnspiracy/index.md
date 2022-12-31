@@ -1,16 +1,16 @@
 ---
-title: "Hosting Aquí te pillo, aquí te cuento 2"
+title: "May we trust AI systems?"
 
-event: Aquí te pillo, aquí te cuento 2
-event_url: "https://scenio.es/aqui-te-pillo-aqui-te-cuento-vol-2-evento-en-vivo"
+event: Bcnspiracy '22
+event_url: "https://bcnspiracy.hablandodeciencia.com/index.php/2022/11/10/programa-bcnspiracy-2022/"
 
-location: "Granada, Spain"
+location: "Barcelona, Spain"
 
-summary: "This event provides a space to 10 scientist to solve a 'fool' question with a scientific answer in 5 minutes. You will find science combined with fun. This was the second edition and I was the host!! A made a mini-monologue and also introduce every speaker."
+summary: "This talk presented in a fun way the risks and possible solutons to make AI systems more reliable."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-11-23T14:00:00Z'
+date: '2022-11-19T14:00:00Z'
 date_end: '2019-11-23T15:00:00Z'
 all_day: false
 
@@ -53,6 +53,6 @@ url_slides: ""
 #- example
 
 ---
-
+"This talk presented in a fun way the risks and possible solutons to make AI systems more reliable."
 
 

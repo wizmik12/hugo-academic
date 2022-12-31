@@ -1,5 +1,5 @@
 ---
-title: "EDA and NLP basics: Exploring the innards of the Spanish poetry"
+title: "PyConEs 2020: EDA and NLP basics: Exploring the innards of the Spanish poetry"
 
 event: PyConEs 2020
 event_url: "https://2020.es.pycon.org/"

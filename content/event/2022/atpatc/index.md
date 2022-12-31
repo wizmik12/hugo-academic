@@ -53,6 +53,7 @@ url_slides: ""
 #- example
 
 ---
+This talk explain the risks of automated decisions made by AI systems. In a one step closer to reliable models, it introduces probabilistic machine learning. These models not only give accurate predictions for decision-making but also a degree of confidence.
 
 
 

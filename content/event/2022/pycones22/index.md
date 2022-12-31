@@ -53,6 +53,7 @@ url_slides: ""
 #- example
 
 ---
+A hands-on tutorial for creating an app in streamlit using a Pytorch model. We also taught from the basics to intermediate level the theory behind deep neuronal networks using Pytorch.
 
 
 
