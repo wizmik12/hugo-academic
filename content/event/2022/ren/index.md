@@ -1,12 +1,12 @@
 ---
 title: "Researchers' European Night '22"
 
-event: "Researchers' European Night"
+event: Researchers' European Night
 event_url: "https://lanochedelosinvestigadores.fundaciondescubre.es/investigador/miguel-lopez-perez/"
 
 location: "Granada, Spain"
 
-summary: "I performed several workshops about AI in the "Researchers' European Night" in Granada, Spain."
+summary: "I performed several workshops about AI in the Researchers' European Night in Granada, Spain."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
