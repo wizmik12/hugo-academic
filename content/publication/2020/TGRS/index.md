@@ -27,7 +27,7 @@ publishDate: "2021-05-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Geoscience and Remote Sensing*. September 2020. "
+publication: "*IEEE Transactions on Geoscience and Remote Sensing*. Volume 59, Number 5, May 2021, pp. 3875-3890. "
 # publication_short: "*TGRS*"
 
 abstract: "The automatic classification of volcano-seismic events is a key problem in volcanology. Due to its complexity, deep learning (DL) techniques have become the tool of  choice for this problem, outperforming classical classifiers. The main drawback of this approach, when applied to the classification of volcano-seismic events, is its tendency to overfit because of the small-size available databases. In this work, we propose and analyze the use of the Gaussian processes (GPs) and Deep GPs (DGPs), and their hierarchical extension, for volcano-seismic event classification. We empirically prove the adequacy of the proposed modeling with an insightful and exhaustive comparison with state-of-the-art DL-based methods on a seismic database recorded at Volcán de Fuego, Colima, Mexico. The hierarchical structure of DGPs and the reduced number of parameters to be automatically estimated become essential to achieve excellent performance even on small databases, capturing well the complex patterns of seismic signals for all classes and, in particular, for those that have been hardly observed."

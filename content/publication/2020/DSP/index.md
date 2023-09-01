@@ -26,7 +26,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Digital Signal Processing*. Volume 101, no. 6, June 2020. "
+publication: "*Digital Signal Processing*. Volume 101, no. 6, June 2020, 102727 "
 # publication_short: "*DSP*"
 
 abstract: "In digital histopathological image analysis, two conflicting objectives are often pursued: closeness to the original tissue and high classification performance. The former objective tries to recover images (stains) that are as close as possible to the ones obtained by staining the tissue with a single dye. The latter objective requires images that allow the extraction of better features for an improved classification, even if their appearance is not close to single stained tissues. In this paper we propose a framework that achieves both objectives depending on the number of stains used to mathematically decompose the scanned image. The proposed framework uses a total variation prior for each stain together with the similarity to a given reference color-vector matrix. Variational inference and an evidence lower bound are utilized to automatically estimate all the latent variables and model parameters. The proposed methodology is tested on real images and compared to classical and state-of-the-art methods for histopathological blind image color deconvolution and prostate cancer classification."
