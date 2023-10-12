@@ -52,7 +52,7 @@ featured: true
 
 url_pdf: ''
 url_code: 'https://github.com/wizmik12/crowdsourcing-digital-pathology-GPs'
-url_dataset: ''
+url_dataset: 'https://drive.google.com/drive/folders/1yWT1aaQLiZAkAomtAdFlqlVWnRkhNrCu'
 url_poster: ''
 url_project: ''
 url_slides: ''

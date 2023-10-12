@@ -31,7 +31,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Artificial Intelligence in Medicine (AIME)*, edited by Springer, Portoroz (Slovenia), June 2023, pp. 245-249"
-# publication_short: "*SR*"
+# publication_short: "*AIME*"
 
 abstract: "Segmentation of histopathological images is an essential task for cancer diagnosis and prognosis in computational pathology. Unfortunately, Machine Learning (ML) techniques need large labeled datasets to train accurate segmentation algorithms that generalize well. A possible solution to alleviate this burden is crowdsourcing, which distributes the effort of labeling among a group of (non-expert) individuals. The bias and noise from less experienced annotators may hamper the performance of machine learning techniques. So far, crowdsourcing approaches in ML leveraging these noisy labels achieve promising results in classification. However, crowdsourcing segmentation is still a challenge in histopathological images. This paper presents a novel crowdsourcing approach to the segmentation of Triple Negative Breast Cancer images. Our method is based on the UNet architecture incorporating a pre-trained ResNet-34 as a backbone. The noisy behavior of the annotators is modeled with a coupled network. Our methodology is validated on a real-world dataset annotated by medical students, where five classes are distinguished. The results show that our method with crowd labels achieves a high level of accuracy in segmentation (DICE: 0.7578), outperforming the well-known STAPLE (DICE: 0.7039) and close to the segmentation model using expert labels (DICE: 0.7723). In conclusion, the initial results of our work suggest that crowdsourcing is a feasible approach to segmentation in histopathological images https://github.com/wizmik12/CRowd_Seg."
 
@@ -50,7 +50,7 @@ featured: true
 
 url_pdf: ''
 url_code: 'https://github.com/wizmik12/CRowd_Seg'
-url_dataset: ''
+url_dataset: 'https://drive.google.com/drive/folders/17VukoKpwZclRrDcWSK1aYd_lPeqWNM8N?usp=sharing='
 url_poster: ''
 url_project: ''
 url_slides: ''
