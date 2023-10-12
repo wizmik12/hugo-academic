@@ -1,20 +1,20 @@
 ---
-title: The Fluxions
-summary: The podcast that Newton would listen to below the tree.
+title: Aquí te pillo, aquí te cuento
+summary: A point-blank outreach event.
 tags:
-- Podcast
+- Event
 - Communication
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://thefluxions.github.io/"
-links: [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/thefluxions"}]
+external_link: "https://sites.google.com/view/atpatc/"
+links: [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/atpatc"}]
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/thefluxions
+  url: https://twitter.com/atpatc
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -28,4 +28,4 @@ url_video: ""
 # slides: example
 ---
 
-The Fluxions is a podcast about mathematics, physics and computer science. It tries to communicate hard topics to a broader audience. We strongly believe in the use of comedy and jokes to communicate science. We also made some live events where we gather a lot of scientific researchers to perform interesting talks.
+Aquí te pillo aquí te cuento is a scientific outreach event that aims to bring research and new scientific knowledge to both regular attendees of these formats and newcomers.
