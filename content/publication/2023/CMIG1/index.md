@@ -18,11 +18,11 @@ authors:
 #- "Equal contribution"
 # Date first published.
 
-date: "2024-03"
+date: "2024-01-01"
 doi: "https://doi.org/10.1016/j.compmedimag.2023.102321"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-07-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
