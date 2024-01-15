@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-- title: Postdoctoral Researcher
+  - title: Postdoctoral Researcher
     company: Polytechnic University of Valencia
     company_url: ''
     company_logo: 
