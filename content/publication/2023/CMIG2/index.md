@@ -1,5 +1,5 @@
 ---
-title: "Crowdsourcing Segmentation of Histopathological Images Using Annotations Provided by Medical Students"
+title: "Learning from crowds for automated histopathological image segmentation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -8,6 +8,9 @@ authors:
 - admin
 - Pablo Morales-Álvarez
 - Lee A. D. Cooper
+- Christopher Felicelli
+- Jeffery Goldstein
+- Brian Vadasz
 - Rafael Molina
 - Aggelos K. Katsaggelos
 
@@ -17,26 +20,26 @@ authors:
 #- "Equal contribution"
 # Date first published.
 
-date: "2023-06"
-doi: "https://doi.org/10.1007/978-3-031-34344-5_29"
+date: "2024-01"
+doi: "https://doi.org/10.1016/j.compmedimag.2024.102327"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-07-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Artificial Intelligence in Medicine (AIME)*, edited by Springer, Portoroz (Slovenia), June 2023, pp. 245-249"
+publication: "*Computerized Medical Imaging and Graphics*, March 2024, pp. 102327"
 # publication_short: "*AIME*"
 
-abstract: "Segmentation of histopathological images is an essential task for cancer diagnosis and prognosis in computational pathology. Unfortunately, Machine Learning (ML) techniques need large labeled datasets to train accurate segmentation algorithms that generalize well. A possible solution to alleviate this burden is crowdsourcing, which distributes the effort of labeling among a group of (non-expert) individuals. The bias and noise from less experienced annotators may hamper the performance of machine learning techniques. So far, crowdsourcing approaches in ML leveraging these noisy labels achieve promising results in classification. However, crowdsourcing segmentation is still a challenge in histopathological images. This paper presents a novel crowdsourcing approach to the segmentation of Triple Negative Breast Cancer images. Our method is based on the UNet architecture incorporating a pre-trained ResNet-34 as a backbone. The noisy behavior of the annotators is modeled with a coupled network. Our methodology is validated on a real-world dataset annotated by medical students, where five classes are distinguished. The results show that our method with crowd labels achieves a high level of accuracy in segmentation (DICE: 0.7578), outperforming the well-known STAPLE (DICE: 0.7039) and close to the segmentation model using expert labels (DICE: 0.7723). In conclusion, the initial results of our work suggest that crowdsourcing is a feasible approach to segmentation in histopathological images https://github.com/wizmik12/CRowd_Seg."
+abstract: "Automated semantic segmentation of histopathological images is an essential task in Computational Pathology (CPATH). The main limitation of Deep Learning (DL) to address this task is the scarcity of expert annotations. Crowdsourcing (CR) has emerged as a promising solution to reduce the individual (expert) annotation cost by distributing the labeling effort among a group of (non-expert) annotators. Extracting knowledge in this scenario is challenging, as it involves noisy annotations. Jointly learning the underlying (expert) segmentation and the annotators’ expertise is currently a commonly used approach. Unfortunately, this approach is frequently carried out by learning a different neural network for each annotator, which scales poorly when the number of annotators grows. For this reason, this strategy cannot be easily applied to real-world CPATH segmentation. This paper proposes a new family of methods for CR segmentation of histopathological images. Our approach consists of two coupled networks: a segmentation network (for learning the expert segmentation) and an annotator network (for learning the annotators’ expertise). We propose to estimate the annotators’ behavior with only one network that receives the annotator ID as input, achieving scalability on the number of annotators. Our family is composed of three different models for the annotator network. Within this family, we propose a novel modeling of the annotator network in the CR segmentation literature, which considers the global features of the image. We validate our methods on a real-world dataset of Triple Negative Breast Cancer images labeled by several medical students. Our new CR modeling achieves a Dice coefficient of 0.7827, outperforming the well-known STAPLE (0.7039) and being competitive with the supervised method with expert labels (0.7723)."
 
 # Summary. An optional shortened abstract.
-summary: We propose crowdsourcing segmention for histopathological images. 
+summary: We propose new method for histopathological image segmentation using multiple non-expert annotators. 
 
 tags: []
 
@@ -56,7 +59,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_custom: [{name = "Paper", url = "https://link.springer.com/chapter/10.1007/978-3-031-34344-5_29"}]
+url_custom: [{name = "Paper", url = "https://www.sciencedirect.com/science/article/pii/S0895611124000041"}]
 
 
 # Featured image

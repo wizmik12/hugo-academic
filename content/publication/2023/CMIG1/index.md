@@ -1,15 +1,16 @@
 ---
-title: "Crowdsourcing Segmentation of Histopathological Images Using Annotations Provided by Medical Students"
+title: "Are you sure it’s an artifact? Artifact detection and uncertainty quantification in histological images"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Neel Kanwal
 - admin
-- Pablo Morales-Álvarez
-- Lee A. D. Cooper
+- Umay Kiraz
+- Tahlita C.M. Zuiverloon
 - Rafael Molina
-- Aggelos K. Katsaggelos
+- Kjersti Engan
 
 # Author notes (optional)
 #author_notes:
@@ -17,8 +18,8 @@ authors:
 #- "Equal contribution"
 # Date first published.
 
-date: "2023-06"
-doi: "https://doi.org/10.1007/978-3-031-34344-5_29"
+date: "2023-12"
+doi: "https://doi.org/10.1016/j.compmedimag.2023.102321"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-07-01T00:00:00Z"
@@ -27,13 +28,13 @@ publishDate: "2023-07-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Artificial Intelligence in Medicine (AIME)*, edited by Springer, Portoroz (Slovenia), June 2023, pp. 245-249"
+publication: "*Computerized Medical Imaging and Graphics*, March 2024, pp. 102321"
 # publication_short: "*AIME*"
 
-abstract: "Segmentation of histopathological images is an essential task for cancer diagnosis and prognosis in computational pathology. Unfortunately, Machine Learning (ML) techniques need large labeled datasets to train accurate segmentation algorithms that generalize well. A possible solution to alleviate this burden is crowdsourcing, which distributes the effort of labeling among a group of (non-expert) individuals. The bias and noise from less experienced annotators may hamper the performance of machine learning techniques. So far, crowdsourcing approaches in ML leveraging these noisy labels achieve promising results in classification. However, crowdsourcing segmentation is still a challenge in histopathological images. This paper presents a novel crowdsourcing approach to the segmentation of Triple Negative Breast Cancer images. Our method is based on the UNet architecture incorporating a pre-trained ResNet-34 as a backbone. The noisy behavior of the annotators is modeled with a coupled network. Our methodology is validated on a real-world dataset annotated by medical students, where five classes are distinguished. The results show that our method with crowd labels achieves a high level of accuracy in segmentation (DICE: 0.7578), outperforming the well-known STAPLE (DICE: 0.7039) and close to the segmentation model using expert labels (DICE: 0.7723). In conclusion, the initial results of our work suggest that crowdsourcing is a feasible approach to segmentation in histopathological images https://github.com/wizmik12/CRowd_Seg."
+abstract: "Modern cancer diagnostics involves extracting tissue specimens from suspicious areas and conducting histotechnical procedures to prepare a digitized glass slide, called Whole Slide Image (WSI), for further examination. These procedures frequently introduce different types of artifacts in the obtained WSI, and histological artifacts might influence Computational Pathology (CPATH) systems further down to a diagnostic pipeline if not excluded or handled. Deep Convolutional Neural Networks (DCNNs) have achieved promising results for the detection of some WSI artifacts, however, they do not incorporate uncertainty in their predictions. This paper proposes an uncertainty-aware Deep Kernel Learning (DKL) model to detect blurry areas and folded tissues, two types of artifacts that can appear in WSIs. The proposed probabilistic model combines a CNN feature extractor and a sparse Gaussian Processes (GPs) classifier, which improves the performance of current state-of-the-art artifact detection DCNNs and provides uncertainty estimates. We achieved 0.996 and 0.938 F1 scores for blur and folded tissue detection on unseen data, respectively. In extensive experiments, we validated the DKL model on unseen data from external independent cohorts with different staining and tissue types, where it outperformed DCNNs. Interestingly, the DKL model is more confident in the correct predictions and less in the wrong ones. The proposed DKL model can be integrated into the preprocessing pipeline of CPATH systems to provide reliable predictions and possibly serve as a quality control tool."
 
 # Summary. An optional shortened abstract.
 summary: We propose crowdsourcing segmention for histopathological images. 
@@ -49,14 +50,14 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/wizmik12/CRowd_Seg'
-url_dataset: 'https://drive.google.com/drive/folders/17VukoKpwZclRrDcWSK1aYd_lPeqWNM8N?usp=sharing='
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_custom: [{name = "Paper", url = "https://link.springer.com/chapter/10.1007/978-3-031-34344-5_29"}]
+url_custom: [{name = "Paper", url = "https://www.sciencedirect.com/science/article/pii/S0895611123001398"}]
 
 
 # Featured image
