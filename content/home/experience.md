@@ -23,13 +23,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+- title: Postdoctoral Researcher
+    company: Polytechnic University of Valencia
+    company_url: ''
+    company_logo: 
+    location: Valencia
+    date_start: '2024-01-01'
+    date_end: '2025-12-31'
+    description: 
+    
   - title: Postdoctoral Researcher
     company: University of Granada
     company_url: ''
     company_logo: ugr
     location: Granada
     date_start: '2022-07-12'
-    date_end: ''
+    date_end: '2023-11-30'
     description: 
     
     

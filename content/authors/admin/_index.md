@@ -6,12 +6,11 @@ title: Miguel López-Pérez
 superuser: true
 
 # Role/position/tagline
-role: PhD researcher
-
+role: Postdoctoral Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Granada
-  url: https://www.ugr.es/
+- name: Polytechnic University of Valencia
+  url: https://www.upv.es/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Gaussian Processes, ML in digital pathology and weakly supervised methods.
@@ -21,6 +20,8 @@ interests:
 - Artificial Intelligence in healthcare
 - Gaussian Processes
 - Crowdsourcing
+- Uncertainty Quantification
+- Explainability
 
 # Education to show in About widget
 education:
@@ -73,4 +74,4 @@ email: ""
 highlight_name: true
 ---
 
-I am PhD researcher (2022 to present) working in the [Visual Information Processing Group](https://decsai.ugr.es/vip/index.html) of  University of Granada (UGR). My main research lines are weakly supervised learning, Gaussian Processes and medical imaging. I finished my PhD in July of 2022. My thesis was about weakly supervised learning with Gaussian Processes applied to medical images. Now, my main focus is on crowdsourcing for digital pathology. The PI of my research group is [Rafael Molina Soriano](https://decsai.ugr.es/~rms/).
+I am Postdoctoral researcher working at the [CVBLab](https://www.cvblab.webs.upv.es/) of   Polytechnic University of Valencia (UPV). My main research lines are weakly supervised learning, Gaussian Processes and medical imaging. I finished my PhD in July of 2022. My thesis was about weakly supervised learning with Gaussian Processes applied to medical images. Now, my main focus is on crowdsourcing, explainability and uncertainty quantification for medical images. The PI of my research group is [Valery Naranjo](https://scholar.google.com/citations?user=jk4XsG0AAAAJ&hl=en). I am very committed to science comunication.
